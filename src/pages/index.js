@@ -18,7 +18,7 @@ export default function IndexPage() {
   return (
     <ThemeProvider theme={theme}>
         <Layout>
-          <SEO title="NextJS Landing Page" />
+          <SEO title="Kioshi Okamoto Dev" />
           <Banner />
           <KeyFeature />
           <ServiceSection />
