@@ -21,9 +21,9 @@ Landing page desarrollada en Nextjs para mostrar informacion acerca de una empre
   
 ## Screenshots
 
-![Img1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Img2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Img3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Img1](https://github.com/kioshiokamoto/nextjs-landing-page-v1/blob/main/preview/Screen1.png?raw=true)
+![Img2](https://github.com/kioshiokamoto/nextjs-landing-page-v1/blob/main/preview/Screen2.png?raw=true)
+![Img3](https://github.com/kioshiokamoto/nextjs-landing-page-v1/blob/main/preview/Screen3.png?raw=true)
 
   
 ## Ejecutar localmente
